@@ -1,0 +1,701 @@
+Device Model,Operating System,App Usage Time (min/day),Screen On Time (hours/day),Battery Drain (mAh/day),Number of Apps Installed,Data Usage (MB/day),Age,Gender,User Behavior Class
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Adulte senior,Femme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Consommation data modérée,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+Google Pixel 5,Android,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Utilisation modérée,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Consommation data modérée,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+iPhone 12,iOS,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Consommation data modérée,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+iPhone 12,iOS,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Consommation data modérée,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+iPhone 12,iOS,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Adulte senior,Femme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Consommation data modérée,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+iPhone 12,iOS,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran peu allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+iPhone 12,iOS,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Google Pixel 5,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+iPhone 12,iOS,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+OnePlus 9,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Femme,Comportement intensif
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Utilisation modérée,Écran peu allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Jeune adulte,Femme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+iPhone 12,iOS,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Consommation data modérée,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran peu allumé,Consommation moyenne batterie,Nombre moyen d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Forte utilisation,Écran très allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Homme,Comportement léger
+OnePlus 9,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Femme,Comportement moyen
+iPhone 12,iOS,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte,Femme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte,Homme,Comportement intensif
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Homme,Comportement moyen
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement moyen
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Jeune adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Jeune adulte,Homme,Comportement intensif
+OnePlus 9,Android,Forte utilisation,Écran modérément allumé,Forte consommation batterie,Beaucoup d'apps,Consommation data modérée,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement moyen
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Google Pixel 5,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Adulte,Homme,Comportement moyen
+iPhone 12,iOS,Utilisation modérée,Écran modérément allumé,Faible consommation batterie,Nombre moyen d'apps,Consommation data modérée,Adulte senior,Femme,Comportement léger
+Xiaomi Mi 11,Android,Forte utilisation,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Femme,Comportement intensif
+Xiaomi Mi 11,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Homme,Comportement intensif
+Samsung Galaxy S21,Android,Forte utilisation,Écran très allumé,Forte consommation batterie,Beaucoup d'apps,Forte consommation data,Adulte,Femme,Comportement intensif
+iPhone 12,iOS,Faible utilisation,Écran modérément allumé,Consommation moyenne batterie,Peu d'apps,Faible consommation data,Jeune adulte,Homme,Comportement léger
+Xiaomi Mi 11,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Beaucoup d'apps,Forte consommation data,Adulte senior,Homme,Comportement intensif
+Google Pixel 5,Android,Faible utilisation,Écran modérément allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Femme,Comportement léger
+Samsung Galaxy S21,Android,Faible utilisation,Écran peu allumé,Faible consommation batterie,Peu d'apps,Faible consommation data,Adulte senior,Homme,Comportement léger
+OnePlus 9,Android,Utilisation modérée,Écran modérément allumé,Consommation moyenne batterie,Nombre moyen d'apps,Consommation data modérée,Jeune adulte,Femme,Comportement moyen
