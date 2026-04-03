@@ -20,7 +20,7 @@ An improved version of the Apriori algorithm that combines **three powerful tech
 ### Project Structure
 
 Hybrid-Apriori/
-├── Apriori_Hybrid.ipynb          # Main notebook (Hybrid version)
+├── Apriori_Hybrid.ipynb
 ├── user_behavior_dataset_cleaned.csv
 ├── visualisations_hybrid_regles.png
 └── README.md
