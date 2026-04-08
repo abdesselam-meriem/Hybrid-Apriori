@@ -1,0 +1,2 @@
+timestamp,execution_time_seconds,memory_used_mb,peak_memory_mb,transactions,unique_items,frequent_itemsets,generated_rules,parameters
+2026-04-08 23:19:08,0.0503,0.43,113.77,701,40,142,788,"{'attenuation': 0.04, 'min_confiance': 0.7, 'base_factor': 0.55}"

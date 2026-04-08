@@ -1,0 +1,15 @@
+{
+    "timestamp": "2026-04-08 23:19:08",
+    "execution_time_seconds": 0.0503,
+    "memory_used_mb": 0.43,
+    "peak_memory_mb": 113.77,
+    "transactions": 701,
+    "unique_items": 40,
+    "frequent_itemsets": 142,
+    "generated_rules": 788,
+    "parameters": {
+        "attenuation": 0.04,
+        "min_confiance": 0.7,
+        "base_factor": 0.55
+    }
+}
