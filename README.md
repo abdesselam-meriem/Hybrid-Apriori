@@ -1,27 +1,49 @@
 # Hybrid Apriori Algorithm
 
-An improved version of the Apriori algorithm that combines **three powerful techniques**:
-- **Adaptive Minimum Support** (automatically calculated from the data)
-- **Per-Item Minimum Support (MIS)** – handles rare and common items differently
-- **Degressive Minimum Support** – decreases threshold for longer itemsets
+An improved version of the Apriori algorithm for association rule mining, designed to be more flexible and efficient than the classic version.
 
-### Features
-- Better at discovering interesting rare patterns
-- More intelligent threshold selection compared to classic Apriori
-- Applied on a **User Behavior Dataset** (smartphone usage patterns)
-- Generates strong association rules with high confidence and lift
+## What is this?
 
-### Technologies
-- Python 3
-- Pandas
-- Matplotlib (for visualization)
-- Jupyter Notebook
+This project implements a **Hybrid Apriori** algorithm that extracts association rules from transaction data. Unlike the classic Apriori, our version adapts to your data automatically and handles rare items better.
 
-### Project Structure
+## Key Improvements
 
-Hybrid-Apriori/
-├── Apriori_Hybrid.ipynb
-├── user_behavior_dataset_cleaned.csv
-├── visualisations_hybrid_regles.png
-└── README.md
+### 1. Adaptive Starting Threshold
+Instead of guessing a support value, the algorithm calculates it automatically:
+- Computes the average support of all single items
+- Sets the starting threshold to **85% of this average**
+- Minimum guaranteed value: 15%
 
+### 2. Per-Item Support (MIS)
+Each item has its own support threshold:
+- Frequent items → higher threshold
+- Rare items → lower threshold
+- Formula: `MIS = max(item_support × 0.55, 0.03)`
+
+### 3. Decreasing Threshold
+The support threshold decreases as itemsets get longer:
+- k=1 → 21.25%
+- k=2 → 17.25%
+- k=3 → 13.25%
+- k=4 → 9.25%
+- k=5 → 5.25%
+
+This allows long, rare patterns to survive.
+
+## Results
+
+On our test dataset (701 transactions, 40 items):
+- **142** frequent itemsets found
+- **788** association rules generated
+- **0.05 seconds** execution time
+
+### Example Rules Found:
+"Beaucoup d'apps" → "Comportement intensif"
+Support: 39% | Confidence: 100% | Lift: 2.55
+
+
+## How to Use
+
+### Requirements
+```bash
+pip install pandas matplotlib psutil
